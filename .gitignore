@@ -1,0 +1,17 @@
+./uml
+./idea
+.idea
+*.zip
+*.json
+json
+*.exe
+*.log
+*.gen.go
+*gen.go
+*.pb.go
+gateway/MAILE2_0
+services/*_rpc/*_rpc
+*/internal/server
+grpc/*_rpc/*client/*.go
+grpc/*_rpc/internal/server/*.go
+
